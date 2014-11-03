@@ -1,0 +1,32 @@
+/* app css stylesheet */
+
+body {
+  padding-top: 20px;
+}
+
+.contacts {
+  list-style: none;
+}
+
+
+.Section1{
+    font-size: 35px;
+    background-color: yellowgreen;
+}
+
+
+.phones li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+}
+
+.thumb {
+  float: left;
+  margin: -0.5em 1em 1.5em 0;
+  padding-bottom: 1em;
+  height: 60px;
+  width: 100px;
+}
+
+
